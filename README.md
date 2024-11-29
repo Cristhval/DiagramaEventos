@@ -5,6 +5,6 @@ Descripción: En este ejercicio, deberán diseñar y desarrollar un Sistema de G
 - Cristian Valverde
 - Anthony Yaguana
 
-# DiagramaEventos
+# Diagrama de clases
 
 ![imagen](https://github.com/user-attachments/assets/b573462c-7e72-4d58-b199-374a23410b8e)
